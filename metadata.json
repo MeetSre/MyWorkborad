@@ -1,0 +1,6 @@
+{
+  "name": "OmniFlow - Jira-Style Workspace & Notes Suite",
+  "description": "White-label, domain-based Jira board, team management, and meeting minutes platform for small companies, schools, and private intranet deployments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
